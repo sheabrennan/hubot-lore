@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n Lore
+web: bin/hubot -a campfire
