@@ -28,7 +28,10 @@
     "optparse":           "1.0.4",
     "scoped-http-client": "0.9.8",
     "log":                "1.4.0",
-    "express":            "3.3.4"
+    "express":            "3.3.4",
+    "hubot-scripts":      "2.5.4",
+    "htmlparser":	  "1.7.6",
+    "soupselect":         "0.2.0"
   },
 
   "engines": {
