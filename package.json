@@ -31,6 +31,7 @@
     "express":            "3.3.4",
     "hubot-scripts":      "2.5.4",
     "htmlparser":	  "1.7.6",
+    "redis":		  "0.8.4
     "soupselect":         "0.2.0"
   },
 
